@@ -1,0 +1,8 @@
+host eniac
+hostname eniac.seas.upenn.edu
+identityfile 
+
+host git
+hostname git@github.com
+identityfile id_rsa
+
